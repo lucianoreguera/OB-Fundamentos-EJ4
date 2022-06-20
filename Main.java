@@ -48,6 +48,8 @@ class Main {
       case "Verano":
         System.out.println("Verano");
         break;
+      default:
+        System.out.println("No es una estación");
     }
   }
 }
